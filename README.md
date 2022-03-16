@@ -1,4 +1,4 @@
-# springApp
+# Uno
  
 Open the repo in IDE, in terminal run:
 ```
